@@ -1,5 +1,3 @@
-let op;
-
 // функция расчёта
 function myFunc() {
     // переменная для результата
@@ -27,5 +25,5 @@ function myFunc() {
     }
 
     // отправления результата на страницу
-    document.getElementById("result").innerHTML = result;
+    document.getElementById("demo").innerHTML = result;
 }
