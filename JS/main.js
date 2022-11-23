@@ -1,7 +1,7 @@
 let op;
 
 // функция расчёта
-function func() {
+function myFunc() {
     // переменная для результата
     let result;
 
